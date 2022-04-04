@@ -34,4 +34,3 @@ node index.js
 
 - Make individual folders in the input folder for every layer.
 - Now add all these folder names in the layers array in the `config.js` file.
--
